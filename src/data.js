@@ -92,7 +92,88 @@ const DATA = [
         balance: 1000,
         isAdmin: false, 
         transactions: []
+    },
+	{
+        email: "ritu.gupta@aimbeyond.com",
+        password: "ritu@2024",
+        fullname: "Ritu Gupta",
+        type: "Savings Peso",
+        number: "47290539487",
+        balance: 10000,
+        isAdmin: false, 
+        transactions: []
+    },
+	{
+        email: "rohit.verma@aimbeyond.com",
+        password: "rohit@2024",
+        fullname: "Rohit Verma",
+        type: "Savings Peso",
+        number: "47290539488",
+        balance: 10000,
+        isAdmin: false, 
+        transactions: []
+    },
+	{
+        email: "dexter@getsmarteye.com",
+        password: "dexter@2024",
+        fullname: "Dexter Caffey",
+        type: "Savings Peso",
+        number: "47290539500",
+        balance: 1000000,
+        isAdmin: false, 
+        transactions: []
+    },
+	{
+        email: "sukanya@getsmarteye.com",
+        password: "sukanya@2024",
+        fullname: "Sukanya Bhowmik",
+        type: "Savings Peso",
+        number: "47290539489",
+        balance: 100000,
+        isAdmin: false, 
+        transactions: []
+    },
+	{
+        email: "jitendra.chaudhary@aimbeyond.com",
+        password: "jitendra@2024",
+        fullname: "Jitendra Chaudhary",
+        type: "Savings Peso",
+        number: "47290539505",
+        balance: 1000,
+        isAdmin: false, 
+        transactions: []
+    },
+	{
+        email: "sandeep.ratnakar@aimbeyond.com",
+        password: "sandeep@2024",
+        fullname: "Sandeep Ratnakar",
+        type: "Savings Peso",
+        number: "47290539506",
+        balance: 1000,
+        isAdmin: false, 
+        transactions: []
+    },
+	{
+        email: "nitika.kohli@aimbeyond.com",
+        password: "nitika@2024",
+        fullname: "Nitika Kohli",
+        type: "Savings Peso",
+        number: "47290539507",
+        balance: 1000,
+        isAdmin: false, 
+        transactions: []
+    },
+	{
+        email: "susheel.yadav@aimbeyond.com",
+        password: "susheel@2024",
+        fullname: "Susheel Yadav",
+        type: "Savings Peso",
+        number: "47290539508",
+        balance: 1000,
+        isAdmin: false, 
+        transactions: []
     }
+	
 ];
 
 export default DATA;
